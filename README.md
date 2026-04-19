@@ -1,21 +1,24 @@
-# Python Logic Projects
-Welcome to my repository! This collection features Python scripts I developed to master programming fundamentals and logical reasoning.
+# Daniel Kehinde | Python Developer 🇳🇬
 
-## 🚀 Featured Projects
-
-### 1. Advanced Grade Evaluator
-A robust grading system that handles user input and provides specific academic feedback.
-* **Key Features:** Input validation, error handling, and clean conditional logic.
-
-### 2. Personal Expense Tracker
-A script designed to help users manage and categorize their spending.
-* **Key Features:** Data categorization and summary reporting.
-
-## 🧠 What I Learned
-Through these projects, I've strengthened my understanding of:
-* **Syntax and Semantics:** Writing clean, readable code.
-* **Logic Flow:** Using `if-elif-else` statements effectively.
-* **User Experience:** Validating data to prevent program crashes.
+## 🏅 Microsoft Certifications
+* **Microsoft Azure Fundamentals (AZ-900)** [View Achievement](https://learn.microsoft.com/api/achievements/share/en-us/DanielKehindeLaguda-7520/Q528UYME?sharingId=92C768AA91898921)
+* **Microsoft Data Fundamentals (DP-900)** [View Achievement](https://learn.microsoft.com/api/achievements/share/en-us/DanielKehindeLaguda-7520/HZ9PU378?sharingId=92C768AA91898921)
 
 ---
-*Created by Daniel | Aspiring Software Engineer & AI Specialist*
+
+## 🚀 My Project Lab
+### 📊 Global Population Lookup (`.py`)
+A tool that searches a database for country populations. 
+- **Skills:** Dictionary mapping, `.strip()`, `.title()` for user input.
+
+### ⏲️ Smart Countdown Timer (`.py`)
+A reverse counter with range validation.
+- **Skills:** `while` loops, nested `if/else` logic, data type conversion.
+
+---
+
+## 📈 Learning Roadmap
+- [x] Basic Python Syntax
+- [x] Microsoft Cloud & Data Fundamentals
+- [/] Advanced Logic & Error Handling (In Progress)
+- [ ] Working with APIs (Next Step)
