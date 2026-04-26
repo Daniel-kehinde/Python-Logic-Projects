@@ -26,3 +26,4 @@ cleaned_result = clean_text(user_sentence, forbidden_words)
 print("-" * 20)
 print("Sanitized Output:")
 print(cleaned_result)
+
