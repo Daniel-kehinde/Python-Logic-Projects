@@ -7,3 +7,4 @@ v4 = sentence.count('o')
 v5 = sentence.count('u')
 total = (v1+v2+v3+v4+v5)
 print(total)
+
