@@ -1,4 +1,4 @@
-secrete = input('enter password: \n')
-secrete = secrete.replace(' ','sta')
-secrete = secrete[ : :-1]
-print(secrete)
+secret = input('enter password: \n')
+secret = secret.replace,(secret[2],'sta')
+secret = secret[ : :-1]
+print(secret)
